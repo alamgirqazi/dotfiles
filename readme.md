@@ -35,6 +35,7 @@ p10k configure
 ```   
 
 
+## Mac
 
 ### CLI Tools 
 
@@ -47,6 +48,12 @@ brew install bat bpytop cmatrix exa htop lsd nvm qemu redis zsh-history-substrin
 ```
 brew install --cask wireshark raycast rectangle vagrant sublime-text maccy multipass iterm2 insomnia medis alt-tab vlc
 ```
+
+
+## Ubuntu / Linux 
+
+`apt install tmux zsh htop glances nvtop nload `
+
 
 ### Other must have macos packages
 
